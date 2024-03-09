@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+}
+h1{
+    color: rgba(255, 140, 0, 0.871);
+    position:relative;
+}
+
+#food{
+    color: rgba(70, 187, 94, 0.871);
+    font-weight: bold;
+    background-color: beige;
+}
+.Sandwiches{
+    color: rgba(192, 7, 81, 0.871);
+}
+h1,h2,p{font-size: xx-large;}
